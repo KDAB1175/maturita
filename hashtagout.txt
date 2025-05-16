@@ -1,0 +1,6 @@
+This is a sample text file.
+It includes normal  das characters and also some special ones.
+Here are a few hashtags and symbols:
+ dasexample  dastest  dasChatGPT  dasOpenAI
+Make sure to check how  das symbols are handled.
+End of file.

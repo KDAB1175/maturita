@@ -1,0 +1,6 @@
+This is a sample text file.
+It includes normal # characters and also some special ones.
+Here are a few hashtags and symbols:
+#example #test #ChatGPT #OpenAI
+Make sure to check how # symbols are handled.
+End of file.

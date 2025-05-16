@@ -1,0 +1,9 @@
+Hello from file one!
+Hello from file two!
+Why did the function break up with its loop?
+It heard the loop was going in circles.
+Because it needed space.
+I asked OAI for a joke about AI.
+OAI once asked me to solve a CAPTCHA to prove I'm human...
+It said: "I am the joke." 😅
+...I’m still trying.

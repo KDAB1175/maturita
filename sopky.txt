@@ -1,0 +1,10 @@
+Etna                3329 ano
+Krakatoa            813   ano
+Mount_Fuji          3776  ne
+Mauna_Loa           4169  ano
+Vesuvius            1281  ano
+Eyjafjallajökull    1651  ano
+Mount_St._Helens    2549  ano
+Kilimanjaro         5895  ne
+Popocatépetl        5426  ano
+Mount_Elbrus        5642  ne

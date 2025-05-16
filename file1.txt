@@ -1,0 +1,5 @@
+Hello from file one!
+Why did the function break up with its loop?
+Because it needed space.
+OAI once asked me to solve a CAPTCHA to prove I'm human...
+...I’m still trying.

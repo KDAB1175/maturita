@@ -1,0 +1,4 @@
+Hello from file two!
+It heard the loop was going in circles.
+I asked OAI for a joke about AI.
+It said: "I am the joke." 😅
